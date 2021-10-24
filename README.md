@@ -1,7 +1,7 @@
 
 
  Morvin Ian is a Django Web Developer, Loves Python,
- I also speak other languages such as  Javascript, C, and C++.
+An expert of Javascript and C++.
  Learning Node js
  Also learning Dart 
 
