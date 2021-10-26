@@ -6,7 +6,3 @@
 
  
 ### The Goal is ML and AI 
-
-Social Media platforms
-[Twitter](https://www.twitter.com/OluochIan)
-
