@@ -14,12 +14,12 @@
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/OluochIan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/OluochIanr#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/OluochIan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/OluochIanr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/OluochIanr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/OluochIan#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/OluochIan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/OluochIanr#gh-light-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/OluochIan#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/OluochIan#gh-dark-mode-only)
 
 
