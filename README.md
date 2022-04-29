@@ -11,6 +11,8 @@
 - 📫 How to reach me **morvinian@gmail.com**
 
 
+<br />
+<br />
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/OluochIan#gh-light-mode-only)
@@ -25,9 +27,7 @@
 <br />
 <br />
 
-
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -44,10 +44,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Morvin-Ian&show_icons=true&locale=en" alt="Ian-Morvin" /></p>
 
