@@ -44,7 +44,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morvin-Ian&langs_count=6&theme=tokyonight" alt="kimjayden" /></p>
 
-<p>&nbsp;<img align="left" src="https://https://github-readme-stats.vercel.app/api/?username=Morvin-Ian&count_private=true&theme=tokyonight&showicons=true" alt="Morvin" /></p>
+<p><img align="left" src="https://https://github-readme-stats.vercel.app/api/?username=Morvin-Ian&count_private=true&theme=tokyonight&showicons=true" alt="Morvin" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Morvin-Ian&theme=tokyonight" alt="Morvin" /></p>
 
