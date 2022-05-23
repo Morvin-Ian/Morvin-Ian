@@ -2,7 +2,7 @@
 <h3 align="center">A multidisciplinary Full-Stack developer from Nairobi,Kenya</h3>
 
 
-- 🔭 I’m currently working on [Chat App](https://rulibrary.herokuapp.com)
+- 🔭 I’m currently working on [Chat App](https://morvinchats.herokuapp.com)
 
 - 🌱 I’m currently learning **Everything**
 
