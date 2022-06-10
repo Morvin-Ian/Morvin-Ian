@@ -45,10 +45,15 @@
 <br /><br /> <br />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morvin-Ian&langs_count=6&theme=tokyonight" alt="kimjayden" /></p>
+  <table>
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Morvin-Ian&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morvin-Ian&langs_count=8&layout=compact&theme=tokyonight"/></td>
+  </tr>   
 
+   <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Morvin-Ian&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>  
+  </tr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/?username=Morvin-Ian&count_private=true&theme=tokyonight&showicons=true" alt="Morvin" /></p>
+</table>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Morvin-Ian&theme=tokyonight" alt="Morvin" /></p>
 
