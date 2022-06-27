@@ -2,11 +2,11 @@
 <h3 align="center">A multidisciplinary Full-Stack developer from Nairobi,Kenya</h3>
 
 
-- 🔭 I’m currently working on [Chat App](https://morvinchats.herokuapp.com)
+- 🔭 I’m currently working on Side Projects
 
 - 🌱 I’m currently learning **Everything**
 
-- 💬 Ask me about **React, Django framework, Python**
+- 💬 Ask me about **React js, JavaScript, Django framework, Python**
 
 - 📫 How to reach me **morvinian@gmail.com**
 
