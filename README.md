@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **React js, JavaScript, Django framework, Python**
 
-- 📫 How to reach me **morvinian@gmail.com**
 
 
 <br />
