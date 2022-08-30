@@ -48,8 +48,8 @@
 
   <table>
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Morvin-Ian&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
-       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Morvin-Ian&show_icons=true&count_private=true&include_all_commits&theme=tokyolight"/></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Morvin-Ian&show_icons=true&count_private=true&include_all_commits&theme=tokyonight-only"/></td>
+       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Morvin-Ian&show_icons=true&count_private=true&include_all_commits&theme=tokyolight-only"/></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morvin-Ian&langs_count=6&layout=compact&theme=tokyonight"/></td>
   </tr>   
 
