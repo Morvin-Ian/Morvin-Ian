@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 💬 Ask me about **PHP, React js, JavaScript, Django framework, Python**
+- 💬 Ask me about **PHP, React js, Django framework, JavaScript, Python**
 
 
 
