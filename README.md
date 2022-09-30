@@ -1,10 +1,11 @@
 # Hi there, I'm Morvin Ian
 <h3 align="center">Full-Stack Web and Flutter developer ( Nairobi,Kenya)</h3>
 
-I'm Morvin Ian a software engineerliving in Nairobi Kenya.Currently I am the Developer.I am experienced in front-end and backend web development with Django, Laravel and React. I'm very passionate about python and Javascript. My passive hobbies are watching UFC fights football. My current focus are on:
+I'm Morvin Ian a software engineer living in Nairobi Kenya.Currently. I am experienced in front-end and backend web development with Django, Laravel and React. I'm very passionate about python and Javascript. My passive hobbies are watching UFC fights football. My current focus are on:
 
 - Django framework, Laravel , React Javascript.
 - Artificial Intelligence and Machine Learning.
+- Flutter (Android/IOS)
 
 <br />
 
