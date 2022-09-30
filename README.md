@@ -34,7 +34,7 @@
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="./img/python.png" style="padding-right:10px;" />
-<img align="left" alt="laravel" height="40px" width="40px" src="./img/laravel.png" style="padding-right:10px;" />
+<img align="left" alt="laravel" height="80px" width="40px" src="./img/laravel.png" style="padding-right:10px;" />
 <img align="left" alt="Django" width="26px" src="./img/django.png" style="padding-right:10px; object-fit:cover; width:50px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Postgres" width="26px" src="./img/postgre.png" style="padding-right:10px; object-fit:cover;width:50px;"/>
