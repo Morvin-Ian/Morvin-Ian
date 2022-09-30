@@ -3,8 +3,8 @@
 
 
 - Currently working on Projects/Freelance
-- **Django framework, Laravel , React Javascript **
-- Artificial Intelligence and Machine Learning
+- Django framework, Laravel , React Javascript
+#***Artificial Intelligence and Machine Learning*** 
 
 <br />
 
