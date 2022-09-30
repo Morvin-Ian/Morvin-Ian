@@ -1,17 +1,12 @@
 # Hi there 👋, I'm Morvin Ian
-<h3 align="center">A multidisciplinary Full-Stack developer from Nairobi,Kenya</h3>
+<h3 align="center">Full-Stack Web and Flutter developer ( Nairobi,Kenya)</h3>
 
 
-- 🔭 I’m currently working on Side Projects
-
-- 🌱 I’m currently learning **Everything**
-
-- 💬 Ask me about **PHP, React js, Django framework, JavaScript, Python**
-
-
+- Currently working on Projects/Freelance
+- **Django framework, Laravel , React Javascript **
+- Artificial Intelligence and Machine Learning
 
 <br />
-
 
 ### Connect with me:
 
