@@ -1,5 +1,5 @@
 # Hi there, I'm Morvin Ian
-<h3 align="center">Fullstack Web developer ( Nairobi,Kenya)</h3>
+<h3 align="center">Fullstack Web developer (Nairobi, Kenya)</h3>
 
 I'm Morvin Ian a software engineer living in Nairobi Kenya. Currently, I am experienced in front-end and backend web development with Django, Laravel and React. I'm very passionate about Python and Javascript. My passive hobbies are watching UFC fights and football. My focus is on:
 
