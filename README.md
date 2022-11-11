@@ -40,6 +40,11 @@ I'm Morvin Ian a software engineer living in Nairobi Kenya. Currently, I am expe
 
 
 ### Github Stats:
+<table>
+  <tr>
+        <td><img class="w-full" src="https://activity-graph.herokuapp.com/graph?username=Morvin-Ian&amp;theme=dracula&amp;color=B994E6&amp;bg_color=2B2D3D"></td>
+  </tr>
+</table>
   
   
 <table>
@@ -52,10 +57,6 @@ I'm Morvin Ian a software engineer living in Nairobi Kenya. Currently, I am expe
   </tr>
 </table>
 
-<table>
-  <tr>
-        <td><img class="w-full" src="https://activity-graph.herokuapp.com/graph?username=Morvin-Ian&amp;theme=dracula&amp;color=B994E6&amp;bg_color=2B2D3D"></td>
-  </tr>
-</table>
+
 
 
