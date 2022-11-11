@@ -49,8 +49,13 @@ I'm Morvin Ian a software engineer living in Nairobi Kenya. Currently, I am expe
 
    <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Morvin-Ian&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td> 
   </tr>
-      <td><img class="w-full" src="https://activity-graph.herokuapp.com/graph?username=Morvin-Ian&amp;theme=dracula&amp;color=B994E6&amp;bg_color=2B2D3D"></td>
 
 
+</table>
+
+<table>
+  <tr>
+        <td><img class="w-full" src="https://activity-graph.herokuapp.com/graph?username=Morvin-Ian&amp;theme=dracula&amp;color=B994E6&amp;bg_color=2B2D3D"></td>
+  </tr>
 </table>
 
