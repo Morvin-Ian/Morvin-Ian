@@ -5,7 +5,7 @@ I'm Morvin Ian a software engineer living in Nairobi Kenya. Currently, I am expe
 
 - Django framework, Laravel , React Javascript.
 - Artificial Intelligence and Machine Learning.
-- Flutter (Android/IOS)
+- Android/IOS
 
 <br />
 
