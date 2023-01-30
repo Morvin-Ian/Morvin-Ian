@@ -3,7 +3,7 @@
 
 I'm Morvin Ian a software engineer living in Nairobi Kenya. Currently, I am experienced in front-end and backend web development with Django, Laravel and React. I'm very passionate about Python and Javascript. My passive hobbies are watching UFC fights and football. My focus is on:
 
-- Django framework, Laravel , React Javascript.
+- Web Development.
 - Artificial Intelligence and Machine Learning.
 - Android/IOS
 
