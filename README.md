@@ -5,7 +5,6 @@ Morvin Ian is a software engineer living in Nairobi Kenya. Currently, I am exper
 
 - Web Development.
 - Artificial Intelligence and Machine Learning.
-- Android/IOS
 
 <br />
 
