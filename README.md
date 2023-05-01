@@ -1,10 +1,7 @@
 # Hello there,
-<h3 align="center">Fullstack Web developer (Nairobi, Kenya)</h3>
+<h6 align="center"> Software Engineer (Nairobi, Kenya)</h6>
 
-Morvin Ian is a software engineer living in Nairobi Kenya. Currently, I am experienced in front-end and backend web development with Django, Laravel and React. I'm very passionate about Python and Javascript. My passive hobbies are watching UFC fights and football. My focus is on:
-
-- Web Development.
-- Artificial Intelligence and Machine Learning.
+Morvin Ian is a skilled fullstack web developer from Nairobi, Kenya, with expertise in Django, Laravel, and React. I am is passionate about Python and Javascript and is committed to staying up-to-date with the latest trends and technologies in web development. Morvin has a keen interest in Artificial Intelligence and Machine Learning and enjoys watching UFC fights and football in his free time. He is a well-rounded and creative professional with a dedication to delivering exceptional results for his clients.
 
 <br />
 
@@ -21,7 +18,6 @@ Morvin Ian is a software engineer living in Nairobi Kenya. Currently, I am exper
 
 <br />
 
-<!-- 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -36,6 +32,7 @@ Morvin Ian is a software engineer living in Nairobi Kenya. Currently, I am exper
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <br /><br /> <br />
+<!-- 
 
 
 ### Github Stats:
