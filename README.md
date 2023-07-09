@@ -21,20 +21,17 @@ Morvin Ian is a skilled fullstack web developer , with expertise in Django, Lara
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="./img/python.png" style="padding-right:10px;" />
-<a><img align="left" alt="LAravel" width="90px" src="https://miro.medium.com/max/934/1*cPt2YI-5YxhfL3_Uhw0txA.png" /><a/>
-<img align="left" alt="Django" width="26px" src="./img/django.png" style="padding-right:10px; object-fit:cover; width:50px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<p align="center">
 
-<br /><br /> <br />
-<!-- 
+  <a href="https://skillicons.dev">
+<!--     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,jquery,bootstrap,vscode,netlify" /> -->
+    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery" />
+   <img src="https://skillicons.dev/icons?i=bootstrap,vscode,netlify,postman" />
+  </a>
+         
+</p>
+
 
 
 ### Github Stats:
