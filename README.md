@@ -27,16 +27,12 @@ Morvin Ian is a skilled fullstack web developer , with expertise in Django, Lara
 <!--     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,jquery,bootstrap,vscode,netlify" /> -->
     <img src="https://skillicons.dev/icons?i=git,github,java,c,python,django,php,laravel" />
     <img src="https://skillicons.dev/icons?i=html,css,js,vue,react" />
-   <img src="https://skillicons.dev/icons?i=bootstrap,vscode,atom,postman" />
+   <img src="https://skillicons.dev/icons?i=bootstrap,vscode,postman" />
   </a>
          
 </p>
 
-
-
 ### Github Stats:
-  
-  
 <table>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Morvin-Ian&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
@@ -44,7 +40,3 @@ Morvin Ian is a skilled fullstack web developer , with expertise in Django, Lara
    <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Morvin-Ian&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td> 
   </tr>
 </table>
-
- -->
-
-
