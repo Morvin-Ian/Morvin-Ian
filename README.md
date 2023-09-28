@@ -1,9 +1,9 @@
 # Hello there,
 ## Software Engineer.
 
-<p style="font-size:medium;">
+<small style="font-size:medium;">
 Morvin Ian is a skilled fullstack web developer , with expertise in Django, Laravel, and React. I am passionate about Python and    Javascript and committed to staying up-to-date with the latest trends and technologies in web development. Morvin has a keen interest in Artificial  Intelligence and Machine Learning and enjoys watching UFC fights and football in his free time. I am well-rounded and creative professional with a dedication to delivering exceptional results for clients.
-</p>
+</small>
 
 <br />
 
@@ -26,7 +26,7 @@ Morvin Ian is a skilled fullstack web developer , with expertise in Django, Lara
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,jquery,bootstrap,vscode,netlify" /> -->
     <img src="https://skillicons.dev/icons?i=git,github,c,java,python,django,php,laravel" />
-    <img src="https://skillicons.dev/icons?i=js,typescript,nuxt,vue,react" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,,react" />
    <img src="https://skillicons.dev/icons?i=docker,bootstrap,vscode,postman,postgresql,mysql" />
   </a>
          
