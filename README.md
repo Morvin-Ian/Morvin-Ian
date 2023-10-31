@@ -25,10 +25,10 @@ Morvin Ian is a skilled fullstack web developer , with expertise in Django, Lara
 
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,jquery,bootstrap,vscode,netlify" /> -->
-    <img src="https://skillicons.dev/icons?i=git,github,c,python,django,php,laravel" />
+    <img src="https://skillicons.dev/icons<img src="https://github-readme-stats.vercel.app/api?username=willymwaura&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="BlackDagger007" />?i=git,github,c,python,django,php,laravel" />
     <img src="https://skillicons.dev/icons?i=js,typescript,react" />
    <img src="https://skillicons.dev/icons?i=docker,bootstrap,vscode,postman,postgresql,mysql" />
-  </a>
+  </a><img src="https://github-readme-stats.vercel.app/api?username=willymwaura&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="BlackDagger007" />
          
 </p>
 
@@ -38,6 +38,8 @@ Morvin Ian is a skilled fullstack web developer , with expertise in Django, Lara
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Morvin-Ian&show_icons=true&count_private=true&include_all_commits&&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BlackDagger007&theme=tokyonight"/></td>
       
 
-   <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Morvin-Ian&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BlackDagger007&theme=tokyonight"/></td> 
+   <td>
+     <img src="https://github-readme-stats.vercel.app/api?username=willymwaura&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&    bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="BlackDagger007" />
+   </td> 
   </tr>
 </table>
