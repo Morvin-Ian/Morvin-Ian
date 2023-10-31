@@ -24,7 +24,7 @@ Morvin Ian is a skilled fullstack web developer , with expertise in Django, Lara
 <p align="center">
 
   <a href="https://skillicons.dev">/blob/main/README.md
-<!--     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,jquery,bootstrap,vscode,netlify" /> -->
+    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,jquery,bootstrap,vscode,netlify" /> 
     <img src="https://skillicons.dev/icons?i=git,github,c,python,django,php,laravel" />
     <img src="https://skillicons.dev/icons?i=js,typescript,react" />
    <img src="https://skillicons.dev/icons?i=docker,bootstrap,vscode,postman,postgresql,mysql" />
