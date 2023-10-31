@@ -35,7 +35,7 @@ Morvin Ian is a skilled fullstack web developer , with expertise in Django, Lara
 ### Github Stats:
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morvin-Ian&langs_count=8&layout=compact&theme=tokyonight"/></td>
+    <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morvin-Ian&langs_count=8&layout=compact&theme=tokyonight"/></td>
       
    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morvin-Ian&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td> 
