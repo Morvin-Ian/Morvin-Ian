@@ -13,7 +13,7 @@
 
 <br />
 
-### Languages, Frameworks and Tools:
+# Languages, Frameworks and Tools:
 <p align="center">
 
   <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@
          
 </p>
 
-### Github Stats:
+# Github Stats:
 <table>
   <tr>
     <td>
