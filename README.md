@@ -1,6 +1,4 @@
 # Hello there,
-## Software Developer.
-<br />
 
 ### Connect with me:
 
