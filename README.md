@@ -1,16 +1,11 @@
 # Hello there,
 ## Software Developer.
-
-<small style="font-size:small;">
-I am passionate about Software development and committed to staying up-to-date with the latest trends in technology. I have a keen interest in Artificial  Intelligence and Machine Learning. I also enjoy watching UFC fights and football in my free time. I am well-rounded and creative professional with a dedication to delivering exceptional results for clients.
-</small>
-
 <br />
 
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/OluochIan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/OluochIan#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/oluoch_ian#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/oluoch-ian-90193a206/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/oluoch-ian-90193a206/#gh-dark-mode-only)
