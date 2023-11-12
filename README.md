@@ -12,8 +12,6 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/oluoch_ian#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/oluoch_ian#gh-dark-mode-only)
 
-<br />
-
 ## Languages, Frameworks and Tools:
 <p align="center">
 
