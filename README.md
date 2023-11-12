@@ -1,6 +1,7 @@
 # Hello there,
+👋 Hello! I'm an experienced software developer with a passion for crafting robust and scalable solutions. My expertise lies in the dynamic trio of Python, JavaScript, and PHP. Over the years, I've honed my skills to create efficient and elegant software that not only meets the needs of clients but also exceeds expectations.
 
-# Connect with me:
+## Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/OluochIan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/oluoch_ian#gh-dark-mode-only)
