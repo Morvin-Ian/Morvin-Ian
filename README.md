@@ -1,6 +1,11 @@
-# Hello there,
-👋 Hello! I'm an experienced software developer with a passion for crafting robust and scalable solutions. My expertise lies in the dynamic trio of Python, JavaScript, and PHP. Over the years, I've honed my skills to create efficient and elegant software that not only meets the needs of clients but also exceeds expectations.
-
+# Hello there 👋,
+- Hello! I'm an experienced software developer with a passion for crafting robust and scalable solutions. My expertise lies in the dynamic trio of Python, JavaScript, and PHP. Over the years, I've honed my skills to create efficient and elegant software that not only meets the needs of clients but also exceeds expectations.
+  
+- Currently, I'm working on building  amazing and reliable applications. The frameworks I use include:
+    - Laravel   - Vue Js
+    - Django    - React Js
+    - Flask
+      
 ## Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/OluochIan#gh-light-mode-only)
