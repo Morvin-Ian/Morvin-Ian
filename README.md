@@ -1,7 +1,7 @@
 # Hello there 👋,
-- Morvin is an experienced software developer with a passion for crafting robust and scalable solutions. My expertise lies in the dynamic trio of Python, JavaScript, and   PHP. Over the years, I've honed my skills to create efficient and elegant software that not only meets the needs of clients but also exceeds expectations.
+- Profecient software developer with a passion for crafting robust and scalable solutions. My expertise lies in the dynamic trio of Python, JavaScript, and   PHP. Over the years, I've honed my skills to create efficient and elegant software that not only meets the needs of clients but also exceeds expectations.
   
-- Currently, I'm working on building  amazing and reliable applications. I am also an Artificial Intelligence and Machine Learning enthusiast.
+- Currently, I'm working on building  amazing and reliable applications while also learning mobile app development. I am also an Artificial Intelligence and Machine Learning enthusiast.
       
 ## Connect with me:
 
