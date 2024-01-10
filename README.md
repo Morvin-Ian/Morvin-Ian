@@ -20,7 +20,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,kotlin,python,django,php,laravel" />
     <img src="https://skillicons.dev/icons?i=js,vue,react" />
-   <img src="https://skillicons.dev/icons?i=docker,bootstrap,postman" />
+   <img src="https://skillicons.dev/icons?i=docker,postman" />
   </a>
          
 </p>
