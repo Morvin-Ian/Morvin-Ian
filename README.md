@@ -16,9 +16,9 @@ Profecient software developer with a passion for crafting robust and scalable so
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,android,python,django,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,django,php,laravel" />
     <img src="https://skillicons.dev/icons?i=postgres" />
-   <img src="https://skillicons.dev/icons?i=docker,postman,redis,git,github,nginx" />
+   <img src="https://skillicons.dev/icons?i=docker,postman,redis,git,github" />
   </a>
          
 </p>
