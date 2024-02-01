@@ -1,5 +1,5 @@
 # Hello there 👋,
-Profecient software developer with a passion for crafting robust and scalable solutions. My expertise lies in the dynamic trio of PHP, Python (backend), and JavaScript (frontend). Currently, I'm working on building amazing and reliable applications while also learning mobile app development. 
+Profecient software developer with a passion for crafting robust and scalable solutions. Currently, I'm working on building amazing and reliable applications while also learning mobile app development. 
       
 ## Connect with me:
 
