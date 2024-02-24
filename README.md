@@ -1,5 +1,5 @@
 # Hello there 👋,
-Profecient software developer with a passion for crafting robust and scalable solutions to meet both technical and business goals. Currently, I'm working on building amazing and reliable applications while also learning mobile app development. 
+I'm a profecient software developer with a passion for crafting robust and scalable solutions to meet both technical and business goals. Currently, I'm working on building amazing and reliable applications while also learning mobile app development. 
       
 ## Connect with me:
 
