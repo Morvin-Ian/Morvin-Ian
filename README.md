@@ -16,7 +16,7 @@ I'm a profecient software developer with a passion for crafting robust and scala
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,django,javascript,vue" />
+    <img src="https://skillicons.dev/icons?i=python,django,javascript,nuxt,vue" />
     <img src="https://skillicons.dev/icons?i=postgres" />
    <img src="https://skillicons.dev/icons?i=docker,postman,redis,git,github" />
   </a>
