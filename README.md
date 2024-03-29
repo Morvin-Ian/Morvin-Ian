@@ -13,13 +13,11 @@ I'm a profecient software developer with a passion for crafting robust and scala
 [![website](./img/instagram-dark.svg)](https://instagram.com/oluoch_ian#gh-dark-mode-only)
 
 ## 💪 Skills & Technologies
-<p align="center">
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,php,laravel,python,django,javascript,typescript,vue,react,postgres,mongodb,docker,postman,redis"/>
   </a>
          
-</p>
 
 ## Github Stats:
 <table>
