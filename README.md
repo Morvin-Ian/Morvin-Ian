@@ -12,7 +12,7 @@ I'm a profecient software developer with a passion for crafting robust and scala
 [![website](./img/instagram-light.svg)](https://instagram.com/oluoch_ian#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/oluoch_ian#gh-dark-mode-only)
 
-## Languages, Frameworks and Tools:
+## 💪 Skills & Technologies
 <p align="center">
 
   <a href="https://skillicons.dev">
