@@ -15,7 +15,7 @@ I'm a profecient software developer with a passion for crafting robust and scala
 ## 💪 Skills & Technologies
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,php,laravel,python,django,javascript,typescript,vue,react,postgres,docker,postman,redis"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,android-studio,php,laravel,python,django,javascript,typescript,vue,react,postgres,docker,postman,redis"/>
   </a>
          
 
