@@ -6,11 +6,11 @@ I'm a profecient software developer with a passion for crafting robust and scala
     <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>
 
-   <a href="https://instagram.com/oluoch_ian">
+   <a style="margin-right:10px" href="https://instagram.com/oluoch_ian">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 
-   <a href="https://www.linkedin.com/in/oluoch-ian">
+   <a  style="margin-right:10px" href="https://www.linkedin.com/in/oluoch-ian">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 
