@@ -1,4 +1,4 @@
-# Hello there 👋,
+# Hello there 👋
 
 #### <em>"Until you make the unconscious conscious, it will direct your life and you will call it fate" - <br> Carl Jung </em>
          
