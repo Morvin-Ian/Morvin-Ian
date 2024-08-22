@@ -1,6 +1,6 @@
 # Hello there 👋,
 
-### "Until you make the unconscious conscious, it will direct your life and you will call it fate" <br> Carl Jung
+### "Until you make the unconscious conscious, it will direct your life and you will call it fate"  - Carl Jung
       
 ## Connect with me:
   <a href="https://twitter.com/OluochIan">
