@@ -1,25 +1,6 @@
 # Hello there 👋,
 
 ### <em>"Until you make the unconscious conscious, it will direct your life and you will call it fate" - <br> Carl Jung </em>
-      
-## Connect with me:
-  <a href="https://twitter.com/OluochIan">
-    <img src="https://skillicons.dev/icons?i=twitter"/>
-  </a>
-
-   <a style="margin-right:10px" href="https://instagram.com/oluoch_ian">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-
-   <a  style="margin-right:10px" href="https://www.linkedin.com/in/oluoch-ian">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-
-// ## 💪 Skills & Technologies
-
-  //<a href="https://skillicons.dev">
-   // <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,php,laravel,python,django,javascript,typescript,vue,react,postgres,docker,postman,redis"/>
- // </a>
          
 
 ## Github Stats:
