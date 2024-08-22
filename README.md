@@ -15,11 +15,11 @@
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 
-## 💪 Skills & Technologies
+// ## 💪 Skills & Technologies
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,php,laravel,python,django,javascript,typescript,vue,react,postgres,docker,postman,redis"/>
-  </a>
+  //<a href="https://skillicons.dev">
+   // <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,php,laravel,python,django,javascript,typescript,vue,react,postgres,docker,postman,redis"/>
+ // </a>
          
 
 ## Github Stats:
