@@ -1,6 +1,13 @@
 # Hello there 👋
 
  <em>"Until you make the unconscious conscious, it will direct your life and you will call it fate" - <br> Carl Jung </em>
+
+ ## Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,django,php,flutter,tailwind,react,next,vue,git,github,kotlin" />
+  </a>
+</p>
          
 
 ## Github Stats:
