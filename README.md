@@ -5,7 +5,7 @@
  ## Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,django,php,laravel,vue,nuxt,tailwind,react,git,github,kotlin,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,jspython,django,php,laravel,vue,nuxt,postgresql,react,git,github,postman" />
   </a>
 </p>
          
