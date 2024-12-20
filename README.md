@@ -1,8 +1,11 @@
 # Hello there 👋
 
- <em>"Until you make the unconscious conscious, it will direct your life and you will call it fate" - <br> Carl Jung </em>
+ "Until you make the unconscious conscious, it will direct your life and you will call it fate" - Carl Jung 
 
- ## Stack
+ ##  🔖 Technical Articles
+ - [You are not Special](https://medium.com/@morvinian/as-a-software-developer-you-are-not-so-special-889918b4ff37)
+
+ ## ⚡️ Technologies
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,django,php,laravel,vue,nuxt,postgresql,react,git,github,postman" />
