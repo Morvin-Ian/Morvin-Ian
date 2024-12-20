@@ -8,7 +8,7 @@
  ## ⚡️ Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,django,php,laravel,vue,nuxt,postgresql,react,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,django,php,laravel,vue,nuxt,postgresql,react,git,github,postman,docker, nginx" />
   </a>
 </p>
          
