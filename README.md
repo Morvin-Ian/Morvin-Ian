@@ -2,7 +2,7 @@
 
  "Until you make the unconscious conscious, it will direct your life and you will call it fate" - Carl Jung 
 
- ##  🔖 Technical Articles
+ ##  🔖 Personal Articles
  - [You are not Special](https://medium.com/@morvinian/as-a-software-developer-you-are-not-so-special-889918b4ff37)
 
  ## ⚡️ Technologies
