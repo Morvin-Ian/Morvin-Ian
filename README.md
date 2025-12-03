@@ -5,6 +5,8 @@
  ##  🔖 Personal Articles
  - [You are not Special](https://medium.com/@morvinian/as-a-software-developer-you-are-not-so-special-889918b4ff37)      
 
+    <!--
+
 ## ⚡️ Github Stats
 <table>
   <tr>
@@ -16,3 +18,5 @@
   </tr>
     
 </table>
+
+    -->
