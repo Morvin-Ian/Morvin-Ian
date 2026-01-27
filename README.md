@@ -5,8 +5,8 @@
  ##  🔖 Personal Articles
  - [You are not Special](https://medium.com/@morvinian/as-a-software-developer-you-are-not-so-special-889918b4ff37)      
 
-## ⚡️ Github Stats
-<table>
+<!-- ## ⚡️ Github Stats
+ <table>
   <tr>
     <td>
       <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morvin-Ian&langs_count=4&layout=compact&theme=tokyonight"/>
@@ -15,4 +15,4 @@
 
   </tr>
     
-</table>
+</table> -->
