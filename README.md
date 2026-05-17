@@ -3,7 +3,9 @@
  "Until you make the unconscious conscious, it will direct your life and you will call it fate" - Carl Jung 
 
  ##  🔖 Personal Articles
- - [You are not Special](https://medium.com/@morvinian/as-a-software-developer-you-are-not-so-special-889918b4ff37)      
+ - [You are not Special](https://medium.com/@morvinian/as-a-software-developer-you-are-not-so-special-889918b4ff37)
+ - [Are You Raising a Pyschopath?](https://craftyxhub.com/post/if-your-kid-has-these-behaviours-after-4-years-you-are-raising-a-psychopath)      
+
 
 <!-- ## ⚡️ Github Stats
  <table>
