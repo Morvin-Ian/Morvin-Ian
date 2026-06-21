@@ -4,7 +4,8 @@
 
  ##  🔖 Personal Articles
  - [You are not Special](https://medium.com/@morvinian/as-a-software-developer-you-are-not-so-special-889918b4ff37)
- - [Are You Raising a Pyschopath?](https://craftyxhub.com/post/if-your-kid-has-these-behaviours-after-4-years-you-are-raising-a-psychopath)      
+ - [Are You Raising a Pyschopath?](https://craftyxhub.com/post/if-your-kid-has-these-behaviours-after-4-years-you-are-raising-a-psychopath)
+ - [Why Men Forever Chase the Shadow of the Father](https://craftyxhub.com/post/why-men-spend-their-lives-seeking-approval-from-their-fathers)
 
 
 <!-- ## ⚡️ Github Stats
